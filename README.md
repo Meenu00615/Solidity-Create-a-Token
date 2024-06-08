@@ -1,10 +1,10 @@
 # Solidity Create a Token
-###Project: Create a Token
+### Project: Create a Token
 
 ## Description
 This contract implements a basic token system on the blockchain. It contains public variables to store essential details about the token such as its name, abbreviation, and total supply. Additionally, it includes a mapping that associates addresses with token balances.
 
-  -Two primary functions are defined:
+  - Two primary functions are defined:
 Mint Function: This function increases the total token supply and the balance of a specified address by a given value.
 Burn Function: This function decreases the total token supply and the balance of a specified address by a given value, effectively destroying tokens.
 To ensure the integrity of the token system, the burn function includes conditionals to verify that the balance of the address being burnt from is sufficient for the intended amount to be burnt.
