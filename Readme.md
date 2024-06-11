@@ -13,6 +13,9 @@ Two primary functions are defined:
 https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null
 https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js
 
+# Outputs
+![image](https://github.com/Meenu00615/Solidity-Create-a-Token/assets/149779716/39a849e3-fac0-4654-8277-e1d355fbe99c)
+
 ## Help
 meenu00615@gmail.com
 
