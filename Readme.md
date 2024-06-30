@@ -14,7 +14,11 @@ https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null
 https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js
 
 # Outputs
+MyToken.sol
 ![image](https://github.com/Meenu00615/Solidity-Create-a-Token/assets/149779716/39a849e3-fac0-4654-8277-e1d355fbe99c)
+
+MyToken1.sol
+![image](https://github.com/Meenu00615/Solidity-Create-a-Token/assets/149779716/b668daf4-e363-4199-bdf7-95b8098565e6)
 
 ## Help
 meenu00615@gmail.com
